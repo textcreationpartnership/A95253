@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the proceedings of Colonell Langharne, and others, in the County of Pembrooke, against the Earle of Carbery and his forces. Together with the names of the ships appointed by the right Honourable Robert Earle of Warwick, for the guarding of the coasts of Ireland. With a schedule of the prisoners of note and quality, with the ordnance and armes, together with the ships there taken. Attested under the hand of Captaine Richard Swanley Reare Admirall. Printed according to Order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95253</idno>
+            <idno type="STC">Wing T3021</idno>
+            <idno type="STC">Thomason E42_19</idno>
+            <idno type="STC">ESTC R11548</idno>
+            <idno type="EEBO-CITATION">99859061</idno>
+            <idno type="PROQUEST">99859061</idno>
+            <idno type="VID">111122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111122)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E42[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the proceedings of Colonell Langharne, and others, in the County of Pembrooke, against the Earle of Carbery and his forces. Together with the names of the ships appointed by the right Honourable Robert Earle of Warwick, for the guarding of the coasts of Ireland. With a schedule of the prisoners of note and quality, with the ordnance and armes, together with the ships there taken. Attested under the hand of Captaine Richard Swanley Reare Admirall. Printed according to Order.</title>
+                  <author>Swanley, Richard, d. 1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. for Francis Eglesfeild, and are about to be sold at the signe of the Marygold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laugharne, Rowland, d. 1676.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Pembrokeshire (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111122:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>A True RELATION OF THE PROCEEDINGS OF COLONELL LANGHARNE, and others, in the County of Pembrooke, againſt the Earle of <hi>Carbery</hi> and his Forces.</p>
+            <p>Together with The names of the Ships appointed by the Right Honourable ROBERT Earle of <hi>Warwick,</hi> for the guarding of the Coaſts of <hi>Ireland.</hi>
+            </p>
+            <p>WITH A Schedule of the Priſoners of note and quality, with the Ordnance and Armes, together with the Ships there taken.</p>
+            <p>Atteſted under the hand of Captaine <hi>Richard Swanley</hi> Reare Admirall.</p>
+            <p>Printed according to Order</p>
+            <p>LONDON, Printed by <hi>L. N.</hi> for <hi>Francis Eglesfeild,</hi> and are to be ſold at the ſigne of the Marygold in Pauls Church-yard. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111122:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:111122:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Copy of the Relation of Colonell LANGHARNE, and alſo their proceeding in the Countie of <hi>Pembrooke.</hi>
+            </head>
+            <p>A True Relation of the diſcomf<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ting and routing of the Earle of Carbery and his Forces out of the County of Pembrooke. Managed and performed under God, by the valiant and cou<g ref="char:EOLhyphen"/>ragious Gentlemen, Colonell <hi>Rowland Langharne, Iohn Poyer,</hi> Major of Pembrooke, Eſquire: Mojor <hi>Thomas Langharne, Si<g ref="char:EOLhyphen"/>mon Thelwell,</hi> and <hi>Arthur Owens,</hi> Eſquiers; Captaine <hi>Powel,</hi> Captaine <hi>Kenne,</hi> and other well-affected Commanders and Gentlemen; with the ayde and aſſiſtance of the renowned Sea-men, ordered by the Ad<g ref="char:EOLhyphen"/>mirall, to be landed out of the ſeverall ſhips for that ſervice, under the command of Captain <hi>Whittey,</hi> and <hi>Iohn Greene</hi> Lieutenant; The Fleet conſiſting of five ſhips and a Friggate, appointed by the Right Honou<g ref="char:EOLhyphen"/>rable <hi>Robart</hi> Earle of Warwick, Lord High Admirall of England for the ſervice of King and Parliament, for the guarding of the Coaſt of Ire<g ref="char:EOLhyphen"/>land, &amp;c.</p>
+            <list>
+               <head>The names of the Ships, &amp;c.</head>
+               <item>LEopard Reare, Admirall, Captain <hi>Richard Swanley.</hi>
+               </item>
+               <item>Swallow Reare, Vice-admirall, Captain <hi>William Smith.</hi>
+               </item>
+               <item>Proſperous, Captain <hi>Nicholas Gettonby.</hi>
+               </item>
+               <item>Providence, Captain <hi>William Swanley.</hi>
+               </item>
+               <item>Leopard, Merchant, Captain <hi>Iohn Gilſon.</hi>
+               </item>
+               <item>Creſcent Friggate, Captain <hi>Peter Whittey.</hi>
+               </item>
+            </list>
+            <p>The Squadron of ſhips arrived in Milford-Haven the 23. of February 1643. and at that time the ſaid Earle of Carbery, His Majeſties Lieute<g ref="char:EOLhyphen"/>nant general for thoſe parts, had poſſeſſion and command of the whole entire Country and County of Pembrook (only part of the Hundred of Caſtlema<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tin) his Garriſon Towns and places, were Tynby Haverford<g ref="char:EOLhyphen"/>weſt, Treflyn, Stackpoole-houſe, Carew Caſtle, Roach Caſtle, Prick-ſpill, and the Dale, all which were conſiderable places, well manned and fortified. The next day after the arrivall of the Fleet, there came a<g ref="char:EOLhyphen"/>board the Admirall, the ſaid Colonell and Captain <hi>Poyer,</hi> with ſome o<g ref="char:EOLhyphen"/>ther Gentlemen of Pembrook, in the Hundred of Caſtlemartin, who de<g ref="char:EOLhyphen"/>clared
+<pb facs="tcp:111122:3"/>
+               <!-- PDF PAGE 9 -->
+               <pb n="1" facs="tcp:111122:3"/>
+               <!-- PDF PAGE 9 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:111122:4"/>
+               <!-- PDF PAGE 10 -->the ſad, miſerable, deplorable ſtate and condition of the well affe<g ref="char:EOLhyphen"/>cted Proteſtants of Pembrook, and the country adjacent; and that the Enemy gave out and reported, that they would kill the Dogs, and raviſh the Bitches, and root them out to the third and fourth generation: and how it pleaſed God, by his out-ſtretched powerfull arme, and infinite mercy, (mauger the Earle of Carberies Forces) with their infernal ad<g ref="char:EOLhyphen"/>herents, they had kept the Towne with plunder of the Hundred, being not above 200. foot and 50. horſe, and with forcing importunity, not ſilencing their heavie preſſures, and weighty cares, prayed the aid and aſſiſtance of the Fleet, preſuming with Gods help and mercies, and the furtherance of them, to expell the ſaid Earle with his unworthy rabble of Damy-boyes out of the country, and upon agitation, it was agreed to land 200. Seamen, one Demy-culvering, one Sacor, and one Faulco<g ref="char:EOLhyphen"/>net of braſſe, with powder, ſhot, match, &amp;c. The 30. of January laſt, Colonell <hi>Langharne</hi> with his Sea and Land Forces, being about 300. foot, and 50. horſe, with his Artillary and Amunition, advanced to Stackpoole-houſe, ſome two miles diſtant from Pembrook, and approa<g ref="char:EOLhyphen"/>ching neare the Enemie, they played with their ſmall ſhot unceſſantly upon them, and our Ordnance at the Houſe, but the walls thereof ſo ſtrong, that they performed little execution: At laſt our men gaining ſome part of the out-houſes, neare the walls; the Enemie ſeeing the place no longer wardable, and themſelves hard beſet, yeelded upon Quarter, which was granted, and nobly performed. In this action and aſſault, there was two of our men ſlaine, eight or nine wounded, and ſome few of the Enemy fell, and were hurt alſo, there being ſixty ſoul<g ref="char:EOLhyphen"/>diours in the Houſe all compleatly armed; the Houſe being taken, the Colonell left a Garriſon, and returned to Pembrook, where after a ſhort time of repoſe to refreſh his men, they martched to Treflyn-Houſe, where was a ſtrong Garriſon of 150. foot, and forty horſe, with one peece of Ordnance. Our Forces making their approaches, the Enemie played their parts manfully, by plying their ſmall ſhot, and uſing all marſhall endevours in matter of defence and oppoſition; yet our Forces martched up to their walls, gained their Out-houſes, our Ordnance playing upon them, having made an aſſaultable breach; the Enemy with<g ref="char:EOLhyphen"/>out hope of reliefe, and ſeeing an impoſſibility of maintaining their hold, without a preſent diſ-ingagement: After ſome loſſe of bloud deſired Quarter, which was granted, and honourably performed. In which enterpriſe ſome few were killed and hurt of each ſide, and there were taken in the ſaid Houſe forty horſe, with their armes and furniture, and 150. Foot armes. All this while the ſaid Earle durſt not march out of
+<pb n="3" facs="tcp:111122:4"/>
+               <!-- PDF PAGE 10 -->his ſtrong hold, which was at that time at Tinby, which was not above a mile from the ſaid Houſe (to ſhew himſelfe in the field) only himſelf with ſome of his Forces faced ours, keeping a River betwixt them, up<g ref="char:EOLhyphen"/>on which our Gunners making ſome ſhot, they retreated, the ſaid Co<g ref="char:EOLhyphen"/>lonell ſlighting the walls thereof, retired to Pembrooke to refreſh his men. That done, ſeeing God had given ſuch proſperous ſucceſſe and in<g ref="char:EOLhyphen"/>couragement in their proceedings at the beginning with unanimous conſents, and couragious hearts, reſolved to go over on Rous ſide, poſ<g ref="char:EOLhyphen"/>ſeſſed then by the Enemy, there to engage themſelves, and trie their for<g ref="char:EOLhyphen"/>tunes againſt the Enemy. Upon which the ſaid Colonell and Captain <hi>Poyer,</hi> came aboard the Admirall, deſiring further aid and aſſiſtance to ſet forward and advance the deſigne, which was willingly condeſcen<g ref="char:EOLhyphen"/>ded to, and the time agreed on, to ſend up all the Boats belonging to the Fleet, with a great Gabbard which God ſent accidentally out of Ire<g ref="char:EOLhyphen"/>land, which ſtood in very great ſtead for tranſporting the ſouldiers and Artillery, and accordingly the 22. in the night, the Boats were ſent to the place appointed, being neare Pembrooke Ferry, and the Creſcent Frigate to inable and guard their landing the three and twentieth by eight in the morning the Forces and Artillery were landed on the Enemies ſide. And that morning the Admirall appointed Cap<g ref="char:EOLhyphen"/>taine <hi>Gettonby</hi> and Captain, <hi>Gilſon,</hi> to goe to the Eaſt-wards of the Fort, the Admirall and Vice-Admirall, anchored on the Weſt-ſide, and Captain <hi>William Swanly</hi> left to guard the two Veſſels of ammuni<g ref="char:EOLhyphen"/>tion: part of our forces drawing up two peeces on a hill, which com<g ref="char:EOLhyphen"/>manded the enemies workes on the Eaſt-ſide, where they guarded all night, and the Colonell next morning with the reſt of the forces bring<g ref="char:EOLhyphen"/>ing up his men in three deviſions, and comming neere the enemies am<g ref="char:EOLhyphen"/>buſcadoes on the north-ſide, after a ſmall skirmiſh ware routed and bea<g ref="char:EOLhyphen"/>ten into their Fort, the ſhips then playing upon them, and the two peeces on the eaſt-ſide flanckoring their workes, the Demy-cannon on the ſouth-ſide, and our forces giving a gallant and fierce aſſault, the the enemy diſmaid as in a toile or laborinth, caſte down their armes and cried for quarter: And there were taken in the ſaid Fort about 240. priſoners, wherof ſome of note &amp; quallity, whoſe names with the ſhips lying in Pricks-pill, neere to their ſaid workes then alſo taken, with the number of their Ordinance, as in a Schedule herein contained ap<g ref="char:EOLhyphen"/>peares. Our forces being landed, intelligence thereof was brought to Sir <hi>Henry Vaughan,</hi> who was then in Haverfordweſt in Garriſon two or three hundred foot and horſe, guarded with ten peeces of Or<g ref="char:EOLhyphen"/>dnane, upon which he preſently diſpeeded away Captain <hi>Richard
+<pb n="4" facs="tcp:111122:5"/>
+                  <!-- PDF PAGE 11 -->Steele</hi> with a letter to the Admirall and the reſt of the Commanders and Gentlemen, praying a Parley or Treaty for Peace, but before the meſſenger arrived, the ſaid Fort was taken: Newes thereof was car<g ref="char:EOLhyphen"/>ried to Haverfordweſt; the old Knight with the reſt were ſtrucken with ſuch horror and amazement, and a palſey or anguiſh condition fearing our forces would preſently march thither, that they cauſed a ſtrict watch or centrey to be duely kept, to give notice of the enemies approach, that when they ſaw them comming, they might the more ſafely make their eſcape: And at that time there was one <hi>Wheelor</hi> a Graſier, who had a heard of Cattell graſing upon the hills, the watch having a circumſpect vig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lant eye to performe their dutie and charge, looking ſharply forth in the evening, the ſaid cattell then getting head and running towards the Towne, the watch conceaved them to be our Army, poaſted amain into the Town, and cryed <hi>God dame them, The Round-Headed Rogues were comming;</hi> The which ſtruck ſuch further terror into the ſaid old Knight and Cavaliers, that happy was he that could run away firſt and faſteſt: By that meanes the Towne was fre<g ref="char:EOLhyphen"/>ed and acquitted of them; and in their eſcape they indeavoured to have carried three or foure barrels of powder along with them. But fearing the Round-head black cotes (as they tearmed them) which were the beaſts, caſt the ſaid powder into a river, leaving behind them ten pieces of Ordnance, with a good quantity of proviſions and red coates made ready to cloath our Souldiers. Thus hath the great <hi>Iehovah</hi> the Lord of Hoaſts bleſt our endeavours and proceedings hitherto, and made the the wicked to flye, when none perſued them; to whom with all reve<g ref="char:EOLhyphen"/>rence be attributed all praiſe and glory &amp;c. The people of that Town and Country afore inſlaved &amp; titannicably intreated, being heavily op<g ref="char:EOLhyphen"/>preſt, declared great joy of this victory and deliverance, and by au<g ref="char:EOLhyphen"/>thority Summons iſſueing forth, for the Gentry and able Inhabitants, on a certain day to meet; the Town aforeſaid with the reſt of the Coun<g ref="char:EOLhyphen"/>try therabouts came in, ſubmitted, and preſented their ſervice to the Colonell; Whereupon was placed a Garriſon into Haverfordweſt, the whole Conntrey reduced and freed from the Catterpillers or Cava<g ref="char:EOLhyphen"/>liers (ſaving Tynbye and Carew Caſtle) which places are ſtrongly fortified (as informed:) The Colonell and well-affected Gentlemen conceaving themſelves in no ſafe condition, till they had gained and ta<g ref="char:EOLhyphen"/>ken in Tynbye alſo, to extirpate and roote out the Ante-chriſtian Malig<g ref="char:EOLhyphen"/>nant party, out of the ſaid County: deſired the Admirals further aide for the recovering of the foreſaid Towne, which would ſatisfie their religious and warrantable deſires, and reduce the whole Country into
+<pb n="5" facs="tcp:111122:5"/>
+               <!-- PDF PAGE 11 -->a happy and peaceable condition and government, to the advancement of Gods glory, the Kings honour, the Countries ſafety, and Subjects liberty. The which tendred to a conſiderat debate, it was granted, and with all allacrity furthered; and the Admirall for the better effecting of the deſigne, ſent a Demy-canon into Pembrooke, with as many ſea<g ref="char:EOLhyphen"/>men more, as could be well ſpared out of the Fleet, with powder, ſhot, match, &amp;c, The ſame day ſent away his vice-admirall, Captain <hi>Gettonby</hi> and the Creſcent Frigate into Caldye roade, neere to Tynbie, there to do ſuch ſervice againſt the Town as God in mercy ſhould in<g ref="char:EOLhyphen"/>able them. Upon Wedneſday the ſixth of this inſtant March Colonell <hi>Rowland Langharne</hi> with the reſt of the Commanders, drew their forces into the field, which conſiſted of 500. horſe and foot, or there<g ref="char:EOLhyphen"/>abouts, with a demy-canon, demy-culvering, and a ſacree of braſſe, with other Ordnance and ammunition, and marched to Tynby, where planting their Ordinance, ſummoned the Towne on Thurſday follow<g ref="char:EOLhyphen"/>ing, being the ſeventh, by trumpet to ſurrender the Towne to King and Parliaments uſe, the which obſtinatly refuſed: The Ordinance played at the town from Sea and Land, and the Garriſon of the Towne with great reſolution defended the ſame; but after three dayes ſiege, a great party of the Towne beaten down, a breach made, and one of the chief Commanders in oppoſition wounded, their courage was rebated, and our forces making a gallant and deſperat aſſault, entered the breach, gained the Towne by the ſword, with the loſe of one man, and ſome few hurt; where many of the enemy fell and were hurt alſo: And there tooke betwixt 3. or 400. priſoners, whereof ſome Commanders of note, as relation being had to the Schedule may appeare: eight pieces of Ordinance, about 300. foot armes, with ſtore of plunder for the ſouldiers. By gaining which Towne the whole and entire Coun<g ref="char:EOLhyphen"/>try and County of Pembrook was reduced ſaving Carew Caſtle, which the tenth of this preſent, was upon ſummons ſurrendered upon quarter, to acquit the ſaid hold, and to leave their armes, and to have convoy for their ſecure paſſage out of the Country &amp;c.</p>
+         </div>
+         <div type="schedule_of_prisoners">
+            <head>The SCHEDVLE mentioned, of the Priſoners of Note and Quality, with the Ordinance and Armes, together with the Ships then taken, &amp;c. <hi>Viz.</hi>
+            </head>
+            <list>
+               <head>At the PILL.</head>
+               <item>
+                  <hi>Captain</hi> John Barlow, <hi>Maſter of the Ordinance, and Captain of a Troope of Horſe; a Church Papiſt.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Edmund Bradſhaw. </item>
+               <pb n="6" facs="tcp:111122:6"/>
+               <!-- PDF PAGE 12 -->
+               <item>
+                  <hi>Capt.</hi> John Bradſhaw.</item>
+               <item>
+                  <hi>Capt.</hi> John Butler,</item>
+               <item>
+                  <hi>Capt.</hi> Arnold Butler,</item>
+               <item>
+                  <hi>Capt.</hi> William Mauriechurch.</item>
+               <item>
+                  <hi>The Globe and Providence of Briſtoll.</hi>
+               </item>
+            </list>
+            <list>
+               <head>HAVERFORDWEST. The Commanders names that Ranne away out of Haverfordweſt, being thereto forced by the Horned Beaſts, as before mentioned, &amp;c.</head>
+               <item>
+                  <hi>Sir</hi> Henry Vaughan <hi>Serjeant Major generall of the three Counties viz. Pembrooke, Carmarthin, and Cordagin,</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Francis Floyde <hi>Major of the Horſe.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Stepney, <hi>Governour of Haverfordweſt</hi>
+               </item>
+               <item>
+                  <hi>Leiutenant Colonell</hi> Butler, <hi>High Sheriffe of the County of Pembroke,</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Edwards, <hi>Commiſſioner of Array in Coram.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Hull <hi>of Briſtoll with a</hi> 100. <hi>Seamen, who all run away, and acquitted the place as afore declared.</hi>
+               </item>
+            </list>
+            <list>
+               <head>March 9th. 43. <hi>Priſoners of Note taken at TYNBYE.</hi>
+               </head>
+               <item>John Guyn <hi>Governour of Tynbye. </hi>
+               </item>
+               <item>
+                  <hi>Colonell</hi> David Guyn.</item>
+               <item>
+                  <hi>Leiute<g ref="char:EOLhyphen"/>nant</hi> Thomas Butler, <hi>High Sheriffe of the County of Pembrooke, that ranne away from Haverfordweſt,</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> George Leweis.</item>
+               <item>
+                  <hi>Capt.</hi> Metholl.</item>
+               <item>
+                  <hi>Capt.</hi> Rice Prickhard. </item>
+               <item>
+                  <hi>Archdeacon</hi> Rudd <hi>a Malignant Prieſt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>A particular of the Ordnance, Armes, Powder taken, &amp;c.</head>
+               <item>
+                  <hi>Taken at the Pill, aboarde the Ships, Haverfordweſt, Tynbye, Treflyn, and Carew Caſtle of Ordnance</hi> 53.</item>
+               <item>
+                  <hi>Armes for Foot and Horſe, fixed, and unfixed</hi> 700.</item>
+               <item>
+                  <hi>Powder barrelles</hi> 6. <hi>or</hi> 7.</item>
+               <item>
+                  <hi>Seamen ſlaine</hi> 6. <hi>Sea<g ref="char:EOLhyphen"/>men wounded</hi> 20.</item>
+            </list>
+            <closer>
+               <signed>Rich: Swanley.</signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
